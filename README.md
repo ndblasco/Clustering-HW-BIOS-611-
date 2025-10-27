@@ -1,5 +1,4 @@
 # README
-## Clustering HW BIOS 611
 This repository contains the code and results for the clustering homework in BIOS 611. 
 ## Repository Structure:
 Clustering/
@@ -10,7 +9,8 @@ Clustering/
 │   ├── task1_plot.R
 │   ├── task2_testdata.R
 │   ├── task2_testplot.R
-│   └── task2_simulation.R
+│   ├── task2_simulation.R
+│   └── task2_plot.R
 ├── derived_data/              # CSV outputs from scripts
 ├── figures/                   # Plots and HTML visualizations
 ├── report.html                # Rendered HTML report
