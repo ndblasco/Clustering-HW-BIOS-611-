@@ -5,3 +5,4 @@ From the project root directory, run:
 ```bash
 make all
 ```
+Interactive eport can be viewed from github at https://ndblasco.github.io/Clustering-HW-BIOS-611-/report.html
